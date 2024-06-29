@@ -16,6 +16,7 @@ I’m passionate about leveraging data to drive insights and create meaningful s
 - **Programming Languages:** Python (NumPy, Pandas, Scikit-Learn)
 - **Data Visualization:** Matplotlib, Plotly
 - **Machine Learning:** Regression, Classification, Clustering
+- **Exploratory Data Analysis (EDA):** Proficient in analyzing and interpreting data to uncover insights
 
 ### Android Development:
 - **Programming Languages:** Java, Kotlin
