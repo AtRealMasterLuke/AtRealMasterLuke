@@ -34,7 +34,7 @@ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/luke-otieno-54584
 
 ### Contact
 
-- **Email:** your.email@example.com
+- **Email:** lukemclain4@gmail.com
 - **LinkedIn:** [Luke Otieno](https://www.linkedin.com/luke-otieno-545847313)
 
 ---
