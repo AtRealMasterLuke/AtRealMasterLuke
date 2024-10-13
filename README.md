@@ -12,20 +12,18 @@ I am a passionate Data Scientist and Android Developer with a deep curiosity for
 
 ## 🛠 Skills
 
-### Data Science:
+### Data Science: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="25"/>  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="25"/>
 - **Programming Languages:** Python (NumPy, Pandas, Scikit-Learn)
 - **Data Visualization:** Matplotlib, Plotly
 - **Machine Learning:** Regression, Classification, Clustering
 - **Exploratory Data Analysis (EDA):** Proficient in analyzing and interpreting data to uncover insights
-- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="25"/> Python (NumPy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="25"/>, Pandas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="25"/>, Scikit-Learn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="25"/>)
 
 
-
-### Android Development:
+### Android Development: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="25"/>
 - **Programming Languages:** Java, Kotlin
 - **Development Environment:** Android Studio
 
-### Database:
+### Database: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="27"/>
 - **Database Management:** MySQL
 - **SQL:** Skilled in writing complex SQL queries for data manipulation and retrieval
 
@@ -36,7 +34,7 @@ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/luke-otieno-54584
 ---
 
 
-### Contact
+### 🌐 Connect
 
 - **Email:** lukemclain4@gmail.com
 - **LinkedIn:** [Luke Otieno](https://www.linkedin.com/luke-otieno-545847313)
