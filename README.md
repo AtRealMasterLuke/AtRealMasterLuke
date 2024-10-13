@@ -4,19 +4,22 @@
 
 ---
 
-## About Me
+## 🧑🏿‍💻 About Me
 
-I’m passionate about leveraging data to drive insights and create meaningful solutions. With a background in data science and Android app development, I thrive on solving complex problems and building user-friendly applications. My curiosity extends to exploring databases, particularly MySQL, to optimize data storage and retrieval.
+I am a passionate Data Scientist and Android Developer with a deep curiosity for turning data into actionable insights and building impactful, user-centric mobile applications. With expertise in both data science and app development, I love solving complex problems and continuously learning. My focus also extends to database management, where I specialize in optimizing MySQL for efficient data storage and retrieval. I am always eager to collaborate on innovative projects.
 
 ---
 
-## Skills
+## 🛠 Skills
 
 ### Data Science:
 - **Programming Languages:** Python (NumPy, Pandas, Scikit-Learn)
 - **Data Visualization:** Matplotlib, Plotly
 - **Machine Learning:** Regression, Classification, Clustering
 - **Exploratory Data Analysis (EDA):** Proficient in analyzing and interpreting data to uncover insights
+- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="25"/> Python (NumPy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="25"/>, Pandas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="25"/>, Scikit-Learn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="25"/>)
+
+
 
 ### Android Development:
 - **Programming Languages:** Java, Kotlin
