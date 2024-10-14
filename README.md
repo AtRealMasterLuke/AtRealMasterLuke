@@ -12,14 +12,14 @@ I am a passionate Data Scientist and Android Developer with a deep curiosity for
 
 ## 🛠 Skills
 
-### Data Science: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="25"/>  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="25"/>
+### Data Science:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="26"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="26"/>  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="26"/>
 - **Programming Languages:** Python (NumPy, Pandas, Scikit-Learn)
 - **Data Visualization:** Matplotlib, Plotly
 - **Machine Learning:** Regression, Classification, Clustering
 - **Exploratory Data Analysis (EDA):** Proficient in analyzing and interpreting data to uncover insights
 
 
-### Android Development: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="25"/>
+### Android Development: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="26"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="26"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="26"/>
 - **Programming Languages:** Java, Kotlin
 - **Development Environment:** Android Studio
 
