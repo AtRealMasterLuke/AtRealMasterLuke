@@ -44,3 +44,4 @@ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/luke-otieno-54584
 I look forward to collaborating on exciting data science and Android development projects!
 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AtRealMasterLuke&layout=compact&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtRealMasterLuke)](https://github.com/AtRealMasterLuke/github-readme-stats)
