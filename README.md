@@ -44,4 +44,6 @@ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/luke-otieno-54584
 I look forward to collaborating on exciting data science and Android development projects!
 
 <!-- Top Languages (includes private repos via your Vercel token) -->
-![Top Langs](https://mystats-six.vercel.app/api/top-langs?username=AtRealMasterLuke&layout=compact&langs_count=8&hide_border=true)
+
+![Top Langs](https://mystats-six.vercel.app/api/top-langs?username=AtRealMasterLuke&layout=compact&langs_count=8&hide_border=false&bg_color=00000000&title_color=39ff14&text_color=6aa6ff&border_color=7c3aed&border_radius=12)
+
