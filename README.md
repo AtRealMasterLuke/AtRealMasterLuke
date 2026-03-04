@@ -1,31 +1,36 @@
 # Luke Otieno
 
-### Data Scientist | Android Developer | MySQL Enthusiast
+## Data Analytics | SQL & Relational Databases | Applied Machine Learning
 
 ---
 
 ## 🧑🏿‍💻 About Me
 
-I am a passionate Data Scientist and Android Developer with a deep curiosity for turning data into actionable insights and building impactful, user-centric mobile applications. With expertise in both data science and app development, I love solving complex problems and continuously learning. My focus also extends to database management, where I specialize in optimizing MySQL for efficient data storage and retrieval. I am always eager to collaborate on innovative projects.
+I focus on Data Analytics and SQL-driven problem solving.
+
+I enjoy working with data, cleaning it, exploring patterns, asking the right questions, and turning raw datasets into meaningful insights.
+
+Progress over hype. Depth over noise.
 
 ---
 
 ## 🛠 Skills
 
-### Data Science:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="26"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="26"/>  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="26"/>
-- **Programming Languages:** Python (NumPy, Pandas, Scikit-Learn)
-- **Data Visualization:** Matplotlib, Plotly
-- **Machine Learning:** Regression, Classification, Clustering
-- **Exploratory Data Analysis (EDA):** Proficient in analyzing and interpreting data to uncover insights
+### Data Analytics:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="26"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="26"/>  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="26"/>
+ - Python
+ - Exploratory Data Analysis (EDA)
+ - Data Cleaning & Feature Engineering
+ - Data Visualization
+ - Applied Machine Learning
 
 
-### Android Development: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="26"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="26"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="26"/>
-- **Programming Languages:** Java, Kotlin
-- **Development Environment:** Android Studio
-
-### Database: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="27"/>
-- **Database Management:** MySQL
-- **SQL:** Skilled in writing complex SQL queries for data manipulation and retrieval
+### Database Systems: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="27"/>
+- **MySQL**
+    - Complex JOINs
+    - Subqueries & CTEs
+    - Window Functions
+    - Query optimization fundamentals
+- **Relational Data Modeling:**
 
 ---
 
