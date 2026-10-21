@@ -53,12 +53,6 @@ I'm building toward work that connects reliable data systems with clear analysis
 
 ![Repository language usage and percentages](https://mystats-six.vercel.app/api/top-langs?username=AtRealMasterLuke&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&border_radius=12&cache_seconds=7200)
 
-## What I'm developing next
-
-- Bringing data preparation, SQL transformations, and analysis together into repeatable workflows.
-- Deepening database administration skills, including query performance, access management, and data integrity.
-- Connecting analytical and machine learning work to applications people can use.
-
 ## Let's connect
 
 I'm interested in opportunities and collaborations across data analytics, data engineering, applied AI, database development and administration, and software engineering.
