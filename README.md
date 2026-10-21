@@ -10,6 +10,13 @@ I'm building toward work that connects reliable data systems with clear analysis
 
 ## Technical focus
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="32" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="32" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="32" height="32" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="32" height="32" />
+</p>
+
 | Area | Tools and practice |
 | --- | --- |
 | **Data analytics** | Python, pandas, NumPy, exploratory data analysis, data cleaning, visualization, and Plotly |
@@ -36,6 +43,12 @@ I'm building toward work that connects reliable data systems with clear analysis
 
 - **[One Kenya Services](https://github.com/AtRealMasterLuke/One-Kenya-Services)** — A web platform for citizens to report public service issues and administrators to manage them.
 - **[BiteFlix Recipe App](https://github.com/AtRealMasterLuke/Recipe-App)** — An Android app built with Kotlin and Jetpack Compose that fetches meal categories from TheMealDB API.
+
+## Languages in my repositories
+
+![Repository language usage and percentages](https://mystats-six.vercel.app/api/top-langs?username=AtRealMasterLuke&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&border_radius=12&cache_seconds=7200)
+
+<sub>Language percentages reflect repository code composition.</sub>
 
 ## What I'm developing next
 
